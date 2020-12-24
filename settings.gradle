@@ -1,0 +1,2 @@
+include ':app', ':11_18app', ':11_18_2app', ':11_18_3app', ':weather', ':11_25app', ':12_2app', ':12_2_2app', ':12_9_music', ':12_16_video', ':testapp'
+rootProject.name='weatherApp'
